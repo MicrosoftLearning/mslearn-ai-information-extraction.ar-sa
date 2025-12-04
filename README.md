@@ -1,3 +1,4 @@
+**⚠️ This GitHub repo will retire on 30th December 2025.** 
 # استخراج المعلومات القائم على تكنولوجيا الذكاء الاصطناعي
 <!-- Change the title above as appropriate -->
 
